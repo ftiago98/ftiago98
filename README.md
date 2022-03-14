@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tiago
 - 👀 I am a student and I develop small projects in my free time
 - 🌱 I’m currently learning Python and NodeJS
-- 💞️ I'm looking for an entry-level position as a software programmer to gain work experience.
 - 📫 You can reach me at t.fernandes98@hotmail.com
 
 bauteillisten-sortierer
