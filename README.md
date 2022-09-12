@@ -10,7 +10,3 @@ bauteillisten-sortierer
 
 webiste-with-skeleton
 - Simple project with HTML and CSS
-
-Current projects:
-- Authentication System with NodeJS
-- Mail System with NodeJS
