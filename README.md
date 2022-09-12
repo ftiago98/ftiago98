@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiago
-- 👀 I am a student and I develop small projects in my free time
-- 🌱 I’m currently learning Python and NodeJS
+- 👀 I am a student and I develop small projects in my spare time
+- 🌱 I’m currently learning Java and Spring
 - 📫 You can reach me at t.fernandes98@hotmail.com
 
 bauteillisten-sortierer
