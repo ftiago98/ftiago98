@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Tiago
 - 👀 I am a student and I develop small projects in my spare time
-- 🌱 I’m currently learning Java and Spring
+- 🌱 I’m currently learning Java
 - 📫 You can reach me at t.fernandes98@hotmail.com
 
 bauteillisten-sortierer
-- Designed to sort part lists and simplify workflows
+- Designed to sort and simplify workflows
 - Developed with the Pandas module
 - Additional UI and .exe available, but not published
 
