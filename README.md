@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Tiago
-
 bauteillisten-sortierer
-- Designed to sort and simplify workflows
-- Developed with the Pandas module
-- Additional UI and .exe available, but not published
+- Automatisiert die Zusammenstellung der Bauteile aus dem CAD Plancal Nova
+- Kann direkt an die Submission angehängt werden
 
-webiste-with-skeleton
-- Simple project with HTML and CSS
+Weitere kleine Projekte als Übung OOP
+- Tic Tac Toe Spiel
+- battleship Spiel
+- ...
