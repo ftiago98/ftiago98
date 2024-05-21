@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Tiago
-- 👀 I am a student and I develop small projects in my spare time
-- 🌱 I’m currently learning Java on hyperskill.org!
-- 📫 You can reach me at t.fernandes98@hotmail.com
 
 bauteillisten-sortierer
 - Designed to sort and simplify workflows
